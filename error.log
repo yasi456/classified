@@ -1,0 +1,1084 @@
+[05-Sep-2024 09:05:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_filtered_ads() in C:\xampp\htdocs\New folder (9) - Copy\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\index.php on line 14
+[05-Sep-2024 09:05:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_filtered_ads() in C:\xampp\htdocs\New folder (9) - Copy\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\index.php on line 14
+[05-Sep-2024 09:13:34 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_locations() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:75) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 101
+[05-Sep-2024 09:13:48 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_locations() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:75) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 101
+[05-Sep-2024 10:23:30 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:23:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:23:39 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:23:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:24:12 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:24:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:26:33 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:26:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:26:49 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:26:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:29:04 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:29:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:31:12 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:31:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:32:35 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:32:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:38:53 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:38:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:38:54 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:38:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:47:23 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 10:47:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 8
+[05-Sep-2024 11:46:26 Europe/Berlin] PHP Fatal error:  Cannot redeclare create_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:3) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 145
+[05-Sep-2024 11:46:27 Europe/Berlin] PHP Fatal error:  Cannot redeclare create_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:3) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 145
+[05-Sep-2024 12:09:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_categories() in C:\xampp\htdocs\New folder (9) - Copy\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\index.php on line 5
+[05-Sep-2024 12:09:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_categories() in C:\xampp\htdocs\New folder (9) - Copy\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\index.php on line 5
+[05-Sep-2024 12:09:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_categories() in C:\xampp\htdocs\New folder (9) - Copy\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\index.php on line 5
+[05-Sep-2024 12:33:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_ad_details() in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 11
+[05-Sep-2024 12:33:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_ad_details() in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 11
+[05-Sep-2024 12:39:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_ad_details() in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 11
+[05-Sep-2024 12:46:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_ad_details() in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 11
+[05-Sep-2024 12:46:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_by_id() in C:\xampp\htdocs\New folder (9) - Copy\profile.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\profile.php on line 11
+[05-Sep-2024 12:48:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_ad_details() in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 11
+[05-Sep-2024 13:13:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function is_favorite() in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 18
+[05-Sep-2024 13:13:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function is_favorite() in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\view_ad.php on line 18
+[05-Sep-2024 13:28:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_by_id() in C:\xampp\htdocs\New folder (9) - Copy\profile.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\profile.php on line 11
+[05-Sep-2024 13:32:50 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:32:50 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:33:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:33:05 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:33:06 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:33:07 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:33:08 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:10 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:11 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:11 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:12 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:12 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:12 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:12 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:12 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:13 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:13 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:13 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:13 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:34:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:36:05 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_user_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:5) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 279
+[05-Sep-2024 13:43:55 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:43:56 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:43:57 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:43:58 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:44:00 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:44:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:44:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:44:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:44:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:46:47 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:46:52 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:46:52 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:46:52 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:46:52 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 13:46:52 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_user_profile() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 316
+[05-Sep-2024 14:33:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ">", expecting variable or "{" or "$" in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 329
+[05-Sep-2024 14:52:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "return", expecting variable or "{" or "$" in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 332
+[05-Sep-2024 14:52:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "return", expecting variable or "{" or "$" in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 332
+[06-Sep-2024 10:18:42 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 106
+[06-Sep-2024 10:19:01 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 106
+[06-Sep-2024 10:19:01 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 106
+[06-Sep-2024 10:19:01 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 106
+[06-Sep-2024 10:19:01 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 106
+[06-Sep-2024 10:27:49 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad_photos() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:3) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 159
+[06-Sep-2024 10:28:47 Europe/Berlin] PHP Fatal error:  Cannot redeclare add_photo() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:27) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 167
+[06-Sep-2024 10:28:48 Europe/Berlin] PHP Fatal error:  Cannot redeclare add_photo() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:27) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 167
+[06-Sep-2024 10:29:10 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 168
+[06-Sep-2024 10:29:50 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 168
+[06-Sep-2024 10:44:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 168
+[06-Sep-2024 16:43:05 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 139
+[06-Sep-2024 16:43:25 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 139
+[06-Sep-2024 16:43:25 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 139
+[06-Sep-2024 16:43:25 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 139
+[06-Sep-2024 16:43:25 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 139
+[06-Sep-2024 16:45:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 143
+[06-Sep-2024 16:45:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 143
+[06-Sep-2024 16:45:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 143
+[06-Sep-2024 16:45:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 143
+[06-Sep-2024 17:48:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 17:49:29 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 17:49:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 17:50:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 17:50:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 17:57:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 17:58:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 17:59:24 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:2) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 195
+[06-Sep-2024 17:59:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:2) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 195
+[06-Sep-2024 17:59:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:2) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 195
+[06-Sep-2024 17:59:26 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:2) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 195
+[06-Sep-2024 17:59:26 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:2) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 195
+[06-Sep-2024 17:59:26 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy\functions.php:2) in C:\xampp\htdocs\New folder (9) - Copy\functions.php on line 195
+[06-Sep-2024 17:59:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 18:26:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 18:32:11 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 18:32:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[06-Sep-2024 18:32:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 18:32:13 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[06-Sep-2024 18:32:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 18:32:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[06-Sep-2024 18:32:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 18:32:45 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[06-Sep-2024 18:32:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[06-Sep-2024 18:32:48 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[07-Sep-2024 07:33:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:33:52 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[07-Sep-2024 07:47:54 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:47:55 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[07-Sep-2024 07:47:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:47:59 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[07-Sep-2024 07:49:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_session_is_started() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 13
+[07-Sep-2024 07:50:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_session_is_started() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:50:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_session_is_started() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:50:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_session_is_started() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:50:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_session_is_started() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:51:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 07:51:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 119
+[07-Sep-2024 07:52:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function safe_session_start() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 5
+[07-Sep-2024 08:15:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:123
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 123
+[07-Sep-2024 08:17:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:123
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 123
+[07-Sep-2024 08:35:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function delete_ad_photos() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 37
+[07-Sep-2024 08:47:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:31 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:31 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:31 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:31 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:31 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:47:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function delete_photo() in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 27
+[07-Sep-2024 08:48:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:48:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:48:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:48:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:48:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:42 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:42 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:42 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:42 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:42 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:49 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:49 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:49 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:49 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:49 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:55 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:55 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:55 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:55 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:49:55 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:50:13 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:50:13 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:50:13 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:50:13 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:50:13 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:50:16 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:50:19 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:53:46 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:53:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:53:48 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:53:48 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:53:52 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:53:55 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:53:58 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:54:09 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:54:10 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:59:24 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 08:59:29 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:00:14 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:00:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:06:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:07:21 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:07:21 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:07:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:07:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:07:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:07:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 09:07:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy\edit_ad.php on line 152
+[07-Sep-2024 15:31:08 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 95
+[07-Sep-2024 15:40:34 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 95
+[07-Sep-2024 16:20:44 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:21:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:21:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:21:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:21:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:21:12 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:30:14 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:30:14 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:30:14 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:30:14 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:30:14 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 16:45:08 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php:4) in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php on line 217
+[07-Sep-2024 16:45:26 Europe/Berlin] PHP Fatal error:  Cannot redeclare update_ad() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php:44) in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php on line 258
+[07-Sep-2024 16:45:56 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_ad_photos() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php:34) in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php on line 279
+[07-Sep-2024 16:46:11 Europe/Berlin] PHP Fatal error:  Cannot redeclare add_photo() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php:55) in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php on line 277
+[07-Sep-2024 16:46:23 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_categories() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php:7) in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php on line 301
+[07-Sep-2024 16:46:37 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_locations() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php on line 312
+[07-Sep-2024 16:46:38 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_locations() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php:8) in C:\xampp\htdocs\New folder (9) - Copy - Copy\functions.php on line 312
+[07-Sep-2024 16:46:52 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 135
+[07-Sep-2024 17:58:56 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 17:58:56 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 17:58:56 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 17:58:56 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 17:58:56 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:06 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:16:57 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:43 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:43 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:43 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:43 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:43 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:43 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:50 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:50 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:50 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:50 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:50 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 18:41:50 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:27 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 19:27:27 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 19:27:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:28 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:36 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 19:27:36 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 19:27:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:27:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:31:02 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:31:02 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:31:02 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:31:02 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:31:02 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:31:02 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:05 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:26 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 19:40:26 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 19:40:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:40:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:18 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 19:45:18 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 19:45:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:23 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 19:45:23 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 19:45:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:23 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:34 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:34 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:34 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:34 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:34 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:34 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:39 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 19:45:39 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 19:45:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:39 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:47 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 19:45:47 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 19:45:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 19:45:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:09:40 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:09:40 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:09:40 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:09:40 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:09:40 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:09:40 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:32 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:32 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:32 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:32 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:32 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:32 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:38 Europe/Berlin] Attempting to delete photo ID: 0 for ad ID: 7
+[07-Sep-2024 20:10:38 Europe/Berlin] Photo deleted successfully.
+[07-Sep-2024 20:10:38 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:38 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:38 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:38 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:38 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[07-Sep-2024 20:10:38 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy\edit_ad.php on line 139
+[08-Sep-2024 11:16:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "<", expecting "(" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 503
+[08-Sep-2024 11:16:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "<", expecting "(" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 503
+[08-Sep-2024 11:17:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "O" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 521
+[08-Sep-2024 11:17:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "O" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 521
+[08-Sep-2024 11:19:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "O" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 521
+[08-Sep-2024 11:19:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "O" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 521
+[08-Sep-2024 11:21:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 547
+[08-Sep-2024 11:21:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 547
+[08-Sep-2024 11:22:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function srtotime() in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:507
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\index.php(112): time_ago('2024-09-07 23:1...')
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 507
+[08-Sep-2024 11:22:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function srtotime() in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:507
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\index.php(112): time_ago('2024-09-07 23:1...')
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 507
+[08-Sep-2024 11:22:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function srtotime() in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:507
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\index.php(112): time_ago('2024-09-07 23:1...')
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 507
+[08-Sep-2024 11:22:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function srtotime() in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:507
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\profile.php(104): time_ago('2024-09-07 23:1...')
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 507
+[08-Sep-2024 11:22:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function srtotime() in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:507
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\index.php(112): time_ago('2024-09-07 23:1...')
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 507
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:42 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:50:50 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:52:45 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:53:25 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:08 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:11 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:18 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:21 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:24 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:24 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:28 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:56:51 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:56:51 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:04 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:04 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:44 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:44 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:46 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:46 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:57:49 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:58:04 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 11:58:04 Europe/Berlin] PHP Warning:  Undefined variable $full in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 530
+[08-Sep-2024 11:59:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 504
+[08-Sep-2024 12:00:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:18 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:49 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:00:53 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:13 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:15 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:21 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:43 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:48 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:01:58 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:02:47 Europe/Berlin] PHP Deprecated:  Creation of dynamic property DateInterval::$w is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 509
+[08-Sep-2024 12:28:46 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 55
+[08-Sep-2024 12:28:46 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 55
+[08-Sep-2024 12:29:11 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 55
+[08-Sep-2024 12:29:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 55
+[08-Sep-2024 12:31:26 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 12:31:26 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 12:32:54 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 12:32:54 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 13:00:09 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 13:00:09 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 16:40:08 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 16:40:08 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 16:47:49 Europe/Berlin] PHP Parse error:  Unmatched '}' in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 527
+[08-Sep-2024 16:48:56 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 16:48:56 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 17:14:34 Europe/Berlin] PHP Warning:  Undefined array key "conditon" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 17:14:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 58
+[08-Sep-2024 17:21:18 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_related_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:10) in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 465
+[08-Sep-2024 17:21:19 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_related_ads() (previously declared in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:10) in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 465
+[08-Sep-2024 17:22:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:436
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php(28): get_related_ads(7, 6, 4)
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 436
+[08-Sep-2024 17:22:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:436
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php(28): get_related_ads(7, 6, 4)
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 436
+[08-Sep-2024 17:24:02 Europe/Berlin] PHP Warning:  Undefined variable $related_ads in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\index.php on line 122
+[08-Sep-2024 17:24:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\index.php on line 122
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "subcategory_name" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "subcategory_name" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "subcategory_name" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 95
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Warning:  Undefined array key "subcategory_name" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:27:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php on line 98
+[08-Sep-2024 17:28:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php:446
+Stack trace:
+#0 C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\view_ad.php(29): get_related_ads(7, 20, 4)
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\functions.php on line 446
+[08-Sep-2024 18:02:15 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 139
+[08-Sep-2024 18:11:02 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 139
+[08-Sep-2024 18:11:29 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:12:11 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:13:53 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:13:55 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:13:56 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:13:57 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:14:36 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:15:08 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 144
+[08-Sep-2024 18:18:45 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 162
+[08-Sep-2024 18:18:47 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\New folder (9) - Copy - Copy - Copy\edit_ad.php on line 162
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:15:44 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 67
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:22:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\index.php on line 77
+[09-Sep-2024 09:43:02 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\view_ad.php on line 94
+[09-Sep-2024 09:45:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11\view_ad.php on line 94
+[09-Sep-2024 11:05:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function count_filtered_ads() in C:\xampp\htdocs\11\index.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\11\index.php on line 21
+[09-Sep-2024 11:07:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function count_filtered_ads() in C:\xampp\htdocs\11\index.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\11\index.php on line 21
+[09-Sep-2024 11:07:46 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_filtered_ads() (previously declared in C:\xampp\htdocs\11\functions.php:6) in C:\xampp\htdocs\11\functions.php on line 426
+[09-Sep-2024 11:07:48 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_filtered_ads() (previously declared in C:\xampp\htdocs\11\functions.php:6) in C:\xampp\htdocs\11\functions.php on line 426
+[09-Sep-2024 11:08:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function count_filtered_ads() in C:\xampp\htdocs\11\index.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\11\index.php on line 21
+[09-Sep-2024 16:31:18 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11\edit_ad.php on line 144
+[09-Sep-2024 17:12:44 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11\edit_ad.php on line 144
+[09-Sep-2024 17:12:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_total_ads() in C:\xampp\htdocs\11\index.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\11\index.php on line 16
+[09-Sep-2024 17:13:46 Europe/Berlin] PHP Parse error:  Unclosed '{' on line 6 in C:\xampp\htdocs\11\functions.php on line 608
+[09-Sep-2024 17:14:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_total_ads() in C:\xampp\htdocs\11\index.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\11\index.php on line 16
+[11-Sep-2024 11:42:07 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_filtered_ads() (previously declared in C:\xampp\htdocs\11 - Copy (4)\functions.php:32) in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 451
+[11-Sep-2024 12:21:29 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\view_ad.php on line 126
+[11-Sep-2024 12:27:15 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\view_ad.php on line 126
+[11-Sep-2024 13:33:58 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 135
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "title" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 34
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "description" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 35
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "category" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 36
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "subcategory" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 37
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "price" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 38
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "location" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 39
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "phone1" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 41
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "phone2" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 42
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Undefined array key "photos" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 49
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 49
+[11-Sep-2024 13:34:08 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php:49
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 49
+[11-Sep-2024 13:34:10 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 135
+[11-Sep-2024 13:35:52 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 135
+[11-Sep-2024 13:35:53 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 135
+[11-Sep-2024 13:35:54 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 135
+[11-Sep-2024 13:36:07 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 135
+[11-Sep-2024 13:38:25 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 140
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "title" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 34
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "description" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 35
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "category" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 36
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "subcategory" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 37
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "price" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 38
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "location" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 39
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "phone1" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 41
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "phone2" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 42
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\functions.php on line 414
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Undefined array key "photos" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 49
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 49
+[11-Sep-2024 13:38:33 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php:49
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 49
+[11-Sep-2024 13:38:35 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 140
+[11-Sep-2024 13:50:21 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\view_ad.php on line 126
+[11-Sep-2024 13:50:25 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\view_ad.php on line 126
+[11-Sep-2024 14:50:12 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\view_ad.php on line 126
+[11-Sep-2024 14:50:13 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (4)\view_ad.php on line 126
+[11-Sep-2024 16:27:33 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (4)\edit_ad.php on line 140
+[11-Sep-2024 16:46:03 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 16:46:26 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:08:08 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:22:56 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:26:39 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:28:42 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:28:55 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:29:30 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:29:34 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:34:22 Europe/Berlin] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\11 - Copy (6) - Copy\edit_ad.php on line 140
+[11-Sep-2024 17:34:24 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:40:27 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:52:54 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:55:23 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:55:24 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:55:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:57:13 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:57:33 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:57:46 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:58:17 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:58:18 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:58:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:59:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 17:59:26 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
+[11-Sep-2024 18:00:24 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\11 - Copy (6) - Copy\view_ad.php on line 126
